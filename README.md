@@ -1,4 +1,4 @@
-# VEX-U High Stakes 2025 Competition Repository
+# AON Software Wiki
 
 ## Overview
 This repository contains all the code used for the VEX-U High Stakes 2025 competition, including both the operator-controlled and autonomous period programs. The code is built using the **PROS (Purdue Robotics Operating System) framework** and incorporates **OkapiLib** for motion control and path planning.
