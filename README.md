@@ -45,5 +45,11 @@ By maintaining modularized components with clear documentation, we can promote c
 If you have any questions or need help, feel free to reach out to the team!
 
 ---
+### Reminder
+Only include documents and information that is not already present in the PROS documentation so as to not use up unnecessary space.
 
-AON Robotics | Building the Future of Robotics
+For general hardware-to-software interactions, refer to the
+[PROS Framework Documentation](https://pros.cs.purdue.edu/v5/index.html).
+
+For autonomous software shortcuts, refer to the [Okapi Library documentation](https://okapilib.github.io/OkapiLib/index.html).
+
